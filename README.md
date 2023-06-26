@@ -13,3 +13,4 @@ simple calculator.
 - GUI: 
 <img width="443" alt="Captura de ecrã 2023-06-26 152658" src="https://github.com/Fl13ip/CR/assets/94529914/49e61d43-968b-432e-b9b0-4cd3a334d478">
 
+## You can see a similar project made by me at: https://github.com/Fl13ip/Custom-Drawing-Classifier
