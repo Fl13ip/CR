@@ -11,6 +11,6 @@ simple calculator.
 ## App
 - You can learn more about the implementation of the app in the file "RelatórioCR.pdf".
 - GUI: 
-<img width="443" alt="Captura de ecrã 2023-06-26 152658" src="https://github.com/Fl13ip/CR/assets/94529914/49e61d43-968b-432e-b9b0-4cd3a334d478">
+<img width="443" alt="Captura de ecrã 2023-06-26 152658" src="https://github.com/Fl13ip/CR/assets/94529914/ce8e342a-77ad-46f5-898b-61c940785571">
 
 ## You can see a similar project made by me at: https://github.com/Fl13ip/Custom-Drawing-Classifier
